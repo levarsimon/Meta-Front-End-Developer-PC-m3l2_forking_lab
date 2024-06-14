@@ -1,6 +1,6 @@
-Crimson
-Orange
-Blue
+Purple
+Brown
+Red
 Cyan
 Yellow
 Charcoal
@@ -8,6 +8,6 @@ Khaki
 Coral
 Silver
 Fuchsia
-Purple
-Brown
-Red
+Crimson
+Orange
+Blue
